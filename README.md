@@ -24,5 +24,3 @@ npm start
 
 ## Developers
 Gan Rui Yi
-
-# book-manager-react-app
